@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="selectCategory">
+        <item name="general">General</item>
+        <item name="history">History</item>
+        <item name="economics">Economics</item>
+        <item name="politics">Politics</item>
+        <item name="sports">Sports</item>
+    </string-array>
+	<string-array name="selectCategoryValues">
+        <item name="general">G</item>
+        <item name="history">H</item>
+        <item name="economics">E</item>
+        <item name="politics">P</item>
+        <item name="sports">S</item>
+    </string-array>
+	
+</resources>
